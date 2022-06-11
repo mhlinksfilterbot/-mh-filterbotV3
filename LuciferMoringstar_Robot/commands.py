@@ -15,7 +15,7 @@ async def start_message(bot, message):
              InlineKeyboardButton("➕️ Add me to Your Chat ➕️", url=f"http://t.me/{bot_info.BOT_USERNAME}?startgroup=true")
              ],[
              InlineKeyboardButton("Help", callback_data="help"),
-             InlineKeyboardButton("😎 About", callback_data="about") 
+             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat='')
              ],[
              InlineKeyboardButton("More movies", url="https://t.me/+gyZFP-mFh7YyN2Q1"),
              InlineKeyboardButton("Movies Req", url="https://t.me/moviereqgroup_movieshub")
@@ -25,7 +25,7 @@ async def start_message(bot, message):
              InlineKeyboardButton("➕️ Add me to Your Chat ➕️", url=f"http://t.me/{bot_info.BOT_USERNAME}?startgroup=true")
              ],[
              InlineKeyboardButton("ℹ️ Help", callback_data="bot_owner"),
-             InlineKeyboardButton("😎 About", callback_data="about") 
+             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat='') 
              ],[
              InlineKeyboardButton("🗳 More movies", url="https://t.me/+gyZFP-mFh7YyN2Q1"),
              InlineKeyboardButton("Movie Req", url="https://t.me/moviereqgroup_movieshub")
