@@ -7,25 +7,25 @@ class LuciferMoringstar(object):
     ABOUT_MSG = """
 🤖 My Name [{bot_name}](t.me/{bot_username})
 
-🧑 My Dev : [PR0FESS0R-99](t.me/PR0FESS0R_99)
+🧑 My Dev : [thilak2003](t.me/thilak2003)
 
 🧑 My Creator : {dev_name}
 
-📦 My Source : [Click Here](https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot)
+📦 My Source : [Click Here](நக்கு  ல செத்த பயலே)
 
-📺 My Tutorial : [Ckick Here](https://youtu.be/FCU_XJmyG_U)
+📺 My Tutorial : [Ckick Here](நக்கு  ல செத்த பயலே)
 
-🗃️ My Library : [Pyrogram](https://youtu.be/Af055Eozk9s)
+🗃️ My Library : [Pyrogram](நக்கு  ல செத்த பயலே)
 
-🖇️ My Language : [Python3](https://youtu.be/Af055Eozk9s)
+🖇️ My Language : [Python3](நக்கு  ல செத்த பயலே)
 
-🗃️ My Database : [Mongodb](https://youtu.be/gBLTsH-IXr0)
+🗃️ My Database : [Mongodb](நக்கு  ல செத்த பயலே)
 
-🗳️ My Server : [Heroku](https://youtu.be/xcZD55td6Vw)
+🗳️ My Server : [Heroku](நக்கு  ல செத்த பயலே)
 
-🏷️ My Updates : [Mo Tech](t.me/Mo_Tech_YT)
+🏷️ My Updates : [thilak2003](t.me/thilak2003)
 
-🗣️ My Support : [Any Doubt](t.me/Mo_Tech_Group)"""
+🗣️ My Support : [Any Doubt](https://t.me/thilak2003)"""
 
     FILE_CAPTIONS = """Hello 👋 {mention}\n\n📁Title {title}\n\n🔘Size {size}"""
 
@@ -39,7 +39,7 @@ class LuciferMoringstar(object):
  » /logger - Get Bot Logs
  » /channel - Add Channel List"""
 
-    ADD_YOUR_GROUP = """**__ഞാൻ ജോലി ചെയ്യുന്ന ഗ്രൂപ്പിൽ ചേരൂ, നിങ്ങൾക്ക് ആവശ്യമുള്ള എല്ലാ സിനിമകളും ആ ഗ്രൂപ്പിൽ അഭ്യർത്ഥിക്കാം! ഇവിടെ അഭ്യർത്തിക്കരുത്..😤__**"""
+    ADD_YOUR_GROUP = """**__நான் வேலை செய்யும் குழுவில் சேரூ, உங்களுக்கு தேவை எல்லா திரைப்படம் இங்கே குழு ல அழைக்கலாம்! இங்கே அபிர்த்திக்க வேண்டாம்..😤__**"""
     SPELL_CHECK = """
 **Hello 👋{mention}**,
 
