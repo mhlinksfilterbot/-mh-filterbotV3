@@ -14,11 +14,11 @@ async def start_message(bot, message):
             buttons = [[
              InlineKeyboardButton("➕️ Add me to Your Chat ➕️", url=f"http://t.me/{bot_info.BOT_USERNAME}?startgroup=true")
              ],[
-             InlineKeyboardButton("ℹ️ Help", callback_data="help"),
+             InlineKeyboardButton("Help", callback_data="help"),
              InlineKeyboardButton("😎 About", callback_data="about") 
              ],[
-             InlineKeyboardButton("🗳 Deploy", url="https://youtu.be/OTqZmADyOjU"),
-             InlineKeyboardButton("🤖 Support", url="https://t.me/Mo_Tech_YT")
+             InlineKeyboardButton("More movies", url="https://t.me/+gyZFP-mFh7YyN2Q1"),
+             InlineKeyboardButton("Movies Req", url="https://t.me/moviereqgroup_movieshub")
              ]]
         else:
             buttons = [[
@@ -27,8 +27,8 @@ async def start_message(bot, message):
              InlineKeyboardButton("ℹ️ Help", callback_data="bot_owner"),
              InlineKeyboardButton("😎 About", callback_data="about") 
              ],[
-             InlineKeyboardButton("🗳 Deploy", url="https://youtu.be/OTqZmADyOjU"),
-             InlineKeyboardButton("🤖 Support", url="https://t.me/Mo_Tech_Group")
+             InlineKeyboardButton("🗳 More movies", url="https://t.me/+gyZFP-mFh7YyN2Q1"),
+             InlineKeyboardButton("Movie Req", url="https://t.me/moviereqgroup_movieshub")
              ]]    
         await message.reply_photo(photo = random.choice(BOT_PICS), caption=START_MSG.format(mention = message.from_user.mention, bot_name = bot_info.BOT_NAME, bot_username = bot_info.BOT_USERNAME), reply_markup=InlineKeyboardMarkup(buttons))
         
