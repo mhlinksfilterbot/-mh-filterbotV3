@@ -11,7 +11,7 @@
       "bot"
     ],
     "website": "https://youtube.com/c/MoTech_YT",
-    "repository": "https://github.com/mhlinksfilterbot/-mh-filterbotV3/edit/LuciferMoringstar-Robot/app.json",
+    "repository": "https://github.com/mhlinksfilterbot/-mh-filterbotV3",
     "env": {
         "BOT_TOKEN": {
             "description": "Your Bot Token From https://youtu.be/cB4UduCcNWs",
