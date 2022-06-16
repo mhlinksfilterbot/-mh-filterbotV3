@@ -13,4 +13,4 @@ async def welcome(client, message):
 
     dell=await message.reply_text(text, disable_web_page_preview=True)
     await asyncio.sleep(6)
-    await dell.delete(6)
+    await dell.delete()
