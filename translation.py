@@ -1,14 +1,14 @@
 class LuciferMoringstar(object):
 
-    DEFAULT_MSG = """👋Hello {mention}.....!!!\nIt's Power Full [{bot_name}](t.me/{bot_username}) Here 😎\nAdd Me To Your Group And Make Sure I'm an Admin There! \nAnd Enjoy My Pever Show.....!!!🤪"""
+    DEFAULT_MSG = """ᴠᴀᴀ ʙʀᴏ 🤍{mention}.....!!!\n𖦹ɢᴘ ᴍᴜᴛʜᴜ ᴘᴏᴡᴇʀ ʟᴏᴀᴅᴇᴅ𖦹 [{bot_name}](t.me/{bot_username}) Here 😎\nᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ sᴜʀᴇ ɪᴀᴍ ᴀɴ ᴀᴅᴍɪɴ ᴛʜᴇʀᴇ! \nᴀɴᴅ ᴇɴᴊᴏʏ ᴍʏ Pᴏᴡᴇʀ Sʜᴏᴡ.....!!!🤪"""
 
-    HELP_MSG = """**Help Veno Monuse 🤣**"""
+    HELP_MSG = """**ʜᴇʟᴘ ᴠᴇɴᴜᴍᴀ ʙʀᴏ🤍🤣**"""
 
     ABOUT_MSG = """
-  VAA ARUNACHALAM NEE VARUVANU THERIUM
-🗣️ Owner daa : [Paid BOTS](https://t.me/thilak2003)"""
+✩ ᴠᴀᴀ ᴀʀᴜɴᴀᴄʜᴀʟᴀᴍ ɴᴇᴇ ᴇɴɢᴀ ᴛʜᴀ ᴠᴀʀᴜᴠᴀɴᴜ ᴛʜᴇʀɪᴜᴍ ✰
+ ɢᴏᴍᴛʜᴀ ᴏᴡɴᴇʀ ᴅᴀᴀ : [ᴅᴍ ғᴏʀ ᴘᴀɪᴅ ʙᴏᴛs](https://t.me/thilak2003)"""
 
-    FILE_CAPTIONS = """Hello 👋 {mention}\n\n📁Title {title}\n\n🔘Size {size}"""
+    FILE_CAPTIONS = """ʜᴇʟʟᴏ 🤍 {mention}\n\n📁Title {title}\n\n🔘Size {size}"""
 
     PR0FESS0R_99 = """
 **ADMINS COMMANDS**
