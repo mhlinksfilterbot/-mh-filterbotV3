@@ -5,27 +5,8 @@ class LuciferMoringstar(object):
     HELP_MSG = """**Help Veno Monuse 🤣**"""
 
     ABOUT_MSG = """
-🤖 My Name [{bot_name}](t.me/{bot_username})
-
-🧑 My Dev : [thilak2003](t.me/thilak2003)
-
-🧑 My Creator : {dev_name}
-
-📦 My Source : (நக்கு  ல செத்த பயலே)
-
-📺 My Tutorial : (நக்கு  ல செத்த பயலே)
-
-🗃️ My Library : [pyrogram](நக்கு  ல செத்த பயலே)
-
-🖇️ My Language : [python 3](நக்கு  ல செத்த பயலே)
-
-🗃️ My Database : [mongodb](நக்கு  ல செத்த பயலே)
-
-🗳️ My Server : [Heroku](நக்கு  ல செத்த பயலே)
-
-🏷️ My Updates : [thilak2003](t.me/thilak2003)
-
-🗣️ My Support : [Any Doubt](https://t.me/thilak2003)"""
+  VAA ARUNACHALAM NEE VARUVANU THERIUM
+🗣️ Owner daa : [Paid BOTS](https://t.me/thilak2003)"""
 
     FILE_CAPTIONS = """Hello 👋 {mention}\n\n📁Title {title}\n\n🔘Size {size}"""
 
